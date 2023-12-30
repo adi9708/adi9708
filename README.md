@@ -2,7 +2,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 My name is Aditya Shailesh Patni
 ====================================================================================================================================
 
-Software Engineer
+I'm a Software Engineer
 -----------------
 
 * 🚀 Hard worker, continuous learner and a technologist!
