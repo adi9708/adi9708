@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Hard worker, continuous learner and a technologist! 
+Hard worker, continuous learner and a technologist! \n
 ➥ Experienced Back End developer with 3+ yrs stint in the IT industry working across varied industries (Banking & Finance, FMCG, Pharmaceuticals) and functions (Sales, Human Resources, Supply Chain). 
 ➥ Have passion for building real time scalable, distributed solutions and solving complex problems, a startup generalist doing 0 to 1 continually. ➥ Currently, I am pursuing my masters in Computer Science from Santa Clara University (Expected Graduation: March 2024). I work as a Graduate Teaching Assistant for Object-Oriented Analysis and Design (CSEN 275) course. 
 ➥ Previously, I have worked as a Software Engineering Intern at Tech For Good Inc for development of a ML product - Flant to predict optimal cloud service instance provider.
